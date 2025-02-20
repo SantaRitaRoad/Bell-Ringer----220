@@ -31,7 +31,7 @@ Counting down till they’re done
 [Bridge]
 32 bits in a row
 High to low they neatly flow
-From minus two to the thirty-one
+From -2^31 to the thirty-one
 All compacted in this binary show
 
 [Chorus]
